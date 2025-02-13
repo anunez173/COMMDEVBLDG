@@ -1,3 +1,4 @@
-defaultStorageMapping: null
+defaultStorageMapping: BUILIDING_STORAGE
 fileVersion: 1
-locations: []
+locations:
+  - BUILIDING_STORAGE
