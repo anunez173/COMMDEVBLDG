@@ -1,0 +1,8 @@
+fileVersion: 1
+id: "84"
+mappingDefinitions:
+  BUILIDING_STORAGE:
+    database: COMMDEV_DB
+    schema: ACCELA_BLDG_SCHEMA
+name: Building
+type: Environment
