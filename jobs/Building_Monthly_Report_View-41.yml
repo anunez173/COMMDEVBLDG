@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "41"
+includeSelector: "+{ location: BUILIDING_STORAGE name: V_BLDG_MONTHLY_REPORT }"
+name: Building_Monthly_Report_View
+type: Job
