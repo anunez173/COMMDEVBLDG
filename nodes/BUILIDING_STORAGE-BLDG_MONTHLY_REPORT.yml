@@ -3,7 +3,6 @@ id: cfdf4049-125a-4e85-b386-ad63e7909ca1
 name: BLDG_MONTHLY_REPORT
 operation:
   database: ""
-  dataset: ""
   deployEnabled: true
   description: ""
   locationName: BUILIDING_STORAGE
@@ -3220,12 +3219,9 @@ operation:
             transform: ""
         transform: ""
         uniqueKey: false
-    join:
-      joinCondition: FROM {{ ref('BUILIDING_STORAGE', 'BLDG_MONTHLY_REPORT') }}
   name: BLDG_MONTHLY_REPORT
   schema: ""
   sqlType: Source
-  table: BLDG_MONTHLY_REPORT
   type: sourceInput
   version: 1
 type: Node
